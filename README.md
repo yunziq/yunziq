@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - 👩‍💻 I love to learn something new, improve skills, and solve problems that get in the way.
 - 🎯 My goal is to be a software engineer, game developer, or a cybersecurity analyst.
 - 🐾Outside of coding, I like to read, watch movies, play video-games, and play guitar ocasionally.
+
+  
 - 🌱 Status: currently learning python.
 #### Follow me on my coding journey! 😄
