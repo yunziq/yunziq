@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me:
-- 👩‍💻 I love to learn something new, improve skills, and solve problems that get in the way.
+- 👩‍💻 I love to learn something new, improve my skills, and solve problems that get in the way.
 - 🎯 My goal is to be a software engineer, game developer, or a cybersecurity analyst.
-- 🐾Outside of coding, I like to read, watch movies, play video-games, and play guitar ocasionally.
+- 🐾Outside of coding, I like to read, watch movies, play videogames, and play guitar ocasionally.
 
 
   
