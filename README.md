@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building my python skills.
+- 🔭 I’m currently working on building my coding skills.
 - 🌱 I’m currently learning python.
 - 😄 My goal is to be a software engineer, game developer, or a cybersecurity analyst.
