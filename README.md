@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👾
 
 <!--
 **yunziq/yunziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me:
 - 🔭 I’m currently working on building my coding skills.
 - 🌱 I’m currently learning python.
 - 😄 My goal is to be a software engineer, game developer, or a cybersecurity analyst.
