@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
   
   🌱 Status: currently learning python.
-#### Follow me on my coding journey! I will be sharing my pet projects here 😄
+#### Follow me on my coding journey! I will be sharing my projects here 😄
+#### Let's build cool things together!
