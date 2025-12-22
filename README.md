@@ -23,3 +23,9 @@ Here are some ideas to get you started:
   🌱 Status: currently learning python.
 #### Follow me on my coding journey! I will be sharing my projects here 😄
 #### Let's build cool things together!
+
+# Current languages:
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+</p>
